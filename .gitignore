@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+lib
+.ipynb_checkpoints
+bin
+.idea
